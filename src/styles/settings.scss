@@ -1,0 +1,45 @@
+$base-padding: 24px;
+
+/* THESE VARIABLES ARE ONLY IN THIS FILE. THEY CANNOT BE USED IN THE PROJECT. */
+
+$charcoal: #434343;
+$veryDarkGray: #363636;
+$darkGray: #2a2a2a;
+$fuelYellow: #d58e32;
+$black: #292929;
+$white: #fff;
+$green: #2ed573;
+$lightGrey: #e1e1e1;
+$blackTransparent: rgba(0, 0, 0, 0.5);
+$marsala: #662727;
+
+/* THESE VARIABLES CAN BE USED IN THE PROJECT. */
+
+$header-topbar-bg: $charcoal;
+$header-bg: $marsala;
+
+$footer-claim-bg: $darkGray;
+$footer-bg: $veryDarkGray;
+
+$transition-time: 0.25s;
+
+$hover-content-color: #ffff;
+
+$black-color: #2a2a2a;
+$white-color: #ffffff;
+
+$primary: $fuelYellow;
+$text-color: $darkGray;
+$form-border-color: $black;
+$hover-content-color: $white;
+$primary-background-color: $white;
+$gallery-color: $green;
+
+$gallery-border-color: $lightGrey;
+$gallery-bg-active: $lightGrey;
+$bg-black-transparent: $blackTransparent;
+
+$smobile: 320px;
+$mobile: 375px;
+$lmobile: 425px;
+$laptop: 1024px;
