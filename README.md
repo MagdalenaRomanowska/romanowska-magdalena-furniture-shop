@@ -10,4 +10,4 @@
 - styling in CSS,
 - making 4 components,
 - RWD for 5 components,
-- RWD to application`s state.furniture-shop
+- RWD to application`s state.
